@@ -1,34 +1,50 @@
-👋 Olá! Eu sou Felipe Gonçalves
+# 👋 Olá, eu sou Felipe Gonçalves
 
-Bem-vindo(a) ao meu perfil no GitHub! 🚀
-Aqui você encontrará meus projetos de estudo e prática nas áreas de desenvolvimento web, APIs e programação full stack.
+Bem-vindo(a) ao meu perfil! 🚀  
+Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web**, **APIs** e **programação full stack**.
 
-🛠️ Tecnologias e Ferramentas
+---
 
-Frontend:
-HTML | CSS | JavaScript | Angular
+## 🔧 Tecnologias e Ferramentas
 
-Backend:
-Java | Spring Boot | Node.js
+### ✨ Frontend:
+- HTML
+- CSS
+- JavaScript
+- Angular
 
-Bancos de Dados:
-MySQL | PostgreSQL
+### ⚙️ Backend:
+- Java
+- Spring Boot
+- Node.js
 
-Outros:
-Git | VS Code | Postman | Swagger
+### 🗄️ Banco de Dados:
+- MySQL
+- PostgreSQL
 
-📁 O que você vai encontrar por aqui
+### 🛠️ Outros:
+- Git
+- VS Code
+- Swagger
+- Postman
 
-📘 Projetos práticos desenvolvidos durante meus estudos
+---
 
-⚙️ APIs construídas com Java + Spring Boot e Node.js
+## 📂 O que você vai encontrar
 
-🖥️ Exercícios e desafios em JavaScript
+- 📘 Projetos práticos de estudo  
+- ⚙️ APIs com Java + Spring Boot e Node.js  
+- 🖥️ Exercícios de JavaScript  
+- 🌐 Aplicações integradas com Angular  
 
-🌐 Aplicações web integradas com Angular
+---
 
-🎯 Objetivo
+## 🚀 Objetivo
 
-Evoluir continuamente como desenvolvedor full stack, explorando novas tecnologias e aplicando boas práticas de desenvolvimento. Busco sempre criar soluções eficientes para os desafios da programação.
+Evoluir como **desenvolvedor full stack**, sempre aprendendo novas tecnologias e aplicando em projetos reais.  
+Busco boas práticas e soluções eficientes para desafios de programação.
 
-⚡ "A prática leva à evolução."
+---
+
+> ⚡ *"A prática leva à evolução."*
+
