@@ -27,6 +27,8 @@ Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web*
 - VS Code
 - Swagger
 - Postman
+- Eclipse
+- IntelliJ IDEA
 
 ---
 
