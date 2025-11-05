@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Felipe Gonçalves
 
 Bem-vindo(a) ao meu perfil! 🚀  
-Aqui você encontra meus projetos de estudo e prática em **desenvolvimento web**, **APIs** e **programação full stack**.
+Aqui você encontra meus projetos de estudo e prática em **Desenvolvimento Web**, **APIs** e **Programação Full-Stack**.
 
 ---
 
