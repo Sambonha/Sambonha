@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu perfil! 🚀  
 Aqui você encontra meus projetos de estudo e prática em **Desenvolvimento Web**, **APIs** e **Programação Full-Stack**.
-Meu linkedIn: linkedin.com/in/felipe-sambonha
+Meu linkedIn: https:linkedin.com/in/felipe-sambonha
 
 ---
 
